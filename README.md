@@ -10,7 +10,7 @@ A simple and efficient calculator built with PHP for basic math operations!
 
 🚀 How to Run  
 1. Clone this repository:
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Niusha-Faal/Calculator-php.git
      
 2. Place the project folder in your server's root directory (e.g., `htdocs` for XAMPP and WWW for WAMP).
 3. Open your browser and navigate to:
