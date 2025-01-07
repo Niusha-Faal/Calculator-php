@@ -14,7 +14,7 @@ A simple and efficient calculator built with PHP for basic math operations!
      
 2. Place the project folder in your server's root directory (e.g., `htdocs` for XAMPP and WWW for WAMP).
 3. Open your browser and navigate to:
-   http://localhost/Calculator/Calculator.php
+   http://localhost/Calculator.php
 
 📂 Files  
 - Calculator.php 
